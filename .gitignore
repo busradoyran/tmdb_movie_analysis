@@ -35,6 +35,7 @@ env/
 # Project specific
 deneme.py
 deneme_selenium.py
+data/tmdb_movies.csv  # Exclude scraped data as it changes over time
 
 # Logs
 *.log 

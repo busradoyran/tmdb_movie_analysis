@@ -119,7 +119,9 @@ The analysis notebook (`analysis/TMDB_Analysis.ipynb`) includes:
 
 - The spider includes a delay between requests to respect TMDB's rate limits
 - Currently set to scrape up to 500 pages of movie listings
-- The provided dataset was scraped on March 25, 2024
+- The scraped data (`tmdb_movies.csv`) is not included in the repository as it changes over time with new movies being added
+- Users should run the scraper to get the most up-to-date movie data
+- The analysis notebook is designed to work with any TMDB movie data following the same structure
 
 ## License
 
