@@ -67,7 +67,7 @@ If you want to scrape fresh data:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/TMDB_Scraping_Analysis.git
+git clone https://github.com/busradoyran/tmdb_movie_analysis.git
 cd TMDB_Scraping_Analysis
 ```
 
@@ -108,16 +108,18 @@ The `tmdb_movies.csv` file contains the following columns:
 
 The analysis notebook (`analysis/TMDB_Analysis.ipynb`) includes:
 - Data cleaning and preprocessing
-- Feature engineering
+- Feature engineering (including language encoding, genre processing, runtime conversion)
 - Statistical analysis of movie trends
+- Handling missing values
+- Data normalization
+- Movie clustering analysis
 - Visualizations of key insights
-- [Add your specific analysis features here]
 
 ## Notes
 
 - The spider includes a delay between requests to respect TMDB's rate limits
 - Currently set to scrape up to 500 pages of movie listings
-- The provided dataset was scraped on [ADD DATE HERE]
+- The provided dataset was scraped on March 25, 2024
 
 ## License
 
