@@ -8,7 +8,7 @@ This project consists of two main parts:
 
 If you just want to run the analysis:
 
-1. Open the analysis notebook in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/TMDB_Scraping_Analysis/blob/main/analysis/TMDB_Movie_Analysis.ipynb)
+1. Open the analysis notebook in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/busradoyran/tmdb_movie_analysis/blob/main/analysis/TMDB_Movie_Analysis.ipynb)
 2. The notebook will automatically load the data from this repository
 3. Run the cells to see the analysis
 
